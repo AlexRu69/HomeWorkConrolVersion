@@ -2,11 +2,11 @@
 
 ## Команды Git
 
-Проверка версии git - git version
+git version - Проверка версии git
 
 Для начала работы - git config --global user.name "..." / git config --global user.email "..."
 
-Сделать папку репозиторием - git init
+git init - Сделать папку репозиторием 
 
 Добавить файл к отслеживанию - git add
 
