@@ -6,7 +6,7 @@ git version - Проверка версии git
 
 Для начала работы - git config --global user.name "..." / git config --global user.email "..."
 
-git init - Сделать папку репозиторием 
+Сделать папку репозиторием - git init 
 
 Добавить файл к отслеживанию - git add
 
